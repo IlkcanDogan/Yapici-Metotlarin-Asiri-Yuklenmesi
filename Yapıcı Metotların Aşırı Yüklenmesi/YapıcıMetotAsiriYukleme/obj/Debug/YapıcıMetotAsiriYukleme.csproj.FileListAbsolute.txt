@@ -1,0 +1,6 @@
+c:\users\mka\documents\visual studio 2012\Projects\YapıcıMetotAsiriYukleme\YapıcıMetotAsiriYukleme\bin\Debug\YapıcıMetotAsiriYukleme.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\YapıcıMetotAsiriYukleme\YapıcıMetotAsiriYukleme\bin\Debug\YapıcıMetotAsiriYukleme.exe
+c:\users\mka\documents\visual studio 2012\Projects\YapıcıMetotAsiriYukleme\YapıcıMetotAsiriYukleme\bin\Debug\YapıcıMetotAsiriYukleme.pdb
+c:\users\mka\documents\visual studio 2012\Projects\YapıcıMetotAsiriYukleme\YapıcıMetotAsiriYukleme\obj\Debug\YapıcıMetotAsiriYukleme.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\YapıcıMetotAsiriYukleme\YapıcıMetotAsiriYukleme\obj\Debug\YapıcıMetotAsiriYukleme.exe
+c:\users\mka\documents\visual studio 2012\Projects\YapıcıMetotAsiriYukleme\YapıcıMetotAsiriYukleme\obj\Debug\YapıcıMetotAsiriYukleme.pdb
